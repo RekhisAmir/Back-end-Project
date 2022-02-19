@@ -1,0 +1,9 @@
+.ganttchart{
+    flex: 4;
+    background-color: rgb(243,243,243);
+    padding: 20px 20px;
+}
+
+.timeline{
+    width: 100%;
+}

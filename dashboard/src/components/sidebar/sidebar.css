@@ -1,0 +1,44 @@
+.sidebar{
+    flex: 1;
+    top: 30px; 
+    position: sticky;
+    background-color: rgb(213, 215, 252);
+}
+
+.sidebarwrapper{
+    padding: 10px 5px;
+}
+
+h1{
+    color: darkslateblue;
+}
+
+.main-nav{
+    color: lightslategray;
+    text-decoration: none ! important;
+}
+
+.listitem{
+    display: flex;
+    align-items: center;
+    background-color: rgb(243,243,243);
+    padding: 0px 5px;
+    margin: 5px 5px;
+    border-radius: 8px;
+    height: 30px;
+}
+
+.title{
+    color: rgb(90, 90, 90);
+}
+
+.listitem{
+    color: rgb(58, 53, 53);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: inherit;
+    /* text-align: center; */
+}
+

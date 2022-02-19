@@ -1,0 +1,14 @@
+Box{
+    height: 100px;
+}
+
+.insideitem{
+    height: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+itemtitle{
+    margin-bottom: 5px;
+}
